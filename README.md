@@ -66,7 +66,7 @@ I specialize in developing comprehensive, **full-stack solutions**. My strength 
 ### 🏔️ NisargPath
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/omgholap11/NisargPath)
 
-**Full stack web application for trek booking along with admin dashboards and payment gateway and responsive UI.**
+**A full-stack web application for seamless trek booking, featuring an administrator dashboard for managing statistics and a secure payment gateway.**
 
 </td>
 </tr>
