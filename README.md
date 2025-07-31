@@ -36,7 +36,7 @@ I specialize in developing comprehensive, **full-stack solutions**. My strength 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-👋
+
 ---
 ## 🚀 Featured Projects
 
@@ -73,7 +73,7 @@ I specialize in developing comprehensive, **full-stack solutions**. My strength 
 </table>
 
 </div>
----
+
 
 ## 🏆 LeetCode Stats
 
